@@ -1,0 +1,63 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+.top-header {
+}
+
+.header-left {
+}
+
+.display-img {
+}
+
+.display-text {
+
+}
+
+.header-right {
+}
+.header-right ul{
+	list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header-right ul li img{
+	 display: inline; 
+
+}
+
+.top-header-middle {
+}
+
+.top-header-bottom {
+}
+
+.container {
+}
+
+.container-img {
+	
+	}
+.container-text {
+}
+
+.footer {
+}
+
+.footer-part-left {
+}
+
+.footer-part-right {
+}
+
+.footer-part-bottom {
+}
+
+.footer-bottom-left {
+}
+
+.footer-bottom-right {
+}
